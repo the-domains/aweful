@@ -1,7 +1,7 @@
 name: Aweful
 favicon: null
-layout_spectrum: 0.5981918
-typography_spectrum: 0.2429271
+layout_spectrum: 0
+typography_spectrum: 0.79026
 title: Developer Journey In Beta
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4447601
+  brandStrength: 0.5
   lightness: 0.9101722
   saturation: 0.1809387
   rhythmicContrast: 0.5102616
