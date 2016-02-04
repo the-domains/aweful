@@ -1,0 +1,14 @@
+layout_spectrum: 0.5981918
+typography_spectrum: 0.2429271
+color:
+  saturation: 0.1809387
+  lightness: 0.9101722
+  brandStrength: 0.4447601
+  rhythmicContrast: 0.5102616
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Aweful
