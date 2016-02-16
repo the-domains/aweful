@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Creating Color Palettes For Webpages, Sites, And Apps With Adobe Capture'
-datePublished: '2016-02-16T16:29:46.148Z'
-dateModified: '2016-02-16T16:29:42.282Z'
-title: 'My First Palette With Adobe Creative Cloud Capture '
+datePublished: '2016-02-16T16:39:17.022Z'
+dateModified: '2016-02-16T16:39:12.931Z'
+title: My First Palette With Adobe Creative Cloud Capture Inspired By Kehinde Wiley
 author: []
 sourcePath: _posts/2016-02-16-my-first-palette-with-adobe-creative-cloud-capture.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![BRAZIL MARECHAL FLORIANO PEIXOTO, 2009  OIL ON CANVAS 96" X 84"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad25daf9-db6c-4952-989d-295cc8dba17a.jpg)
 
-My First Palette With Adobe Creative Cloud Capture
+My First Palette With Adobe Creative Cloud Capture Inspired By Kehinde Wiley
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f983f066-853c-4b5b-9234-1f481624fe85.png)
 
 This image by [Kehinde Wiley][0] inspired the color palette used for The Elementary MBA logo. Below you'll see the first draft of the logo. I was introduced to Kehinde Wiley's work by a friend, [Andia Winslow][1], during a trip to the [Phoenix Museum of Contemporary Art][2]. A few years later another friend, Annabel Wong, mentioned him and his work to me. Both of these individuals had the opportunity to meet Kehinde during their travels on the East Coast.
