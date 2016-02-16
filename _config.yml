@@ -20,10 +20,10 @@ color:
     - '#f2490c'
     - '#f2a922'
     - '#69a62d'
+    - '#f23d5e'
     - '#babf26'
-    - '#121212'
   brandStrength: 0.8125
-  lightness: 0.3125
+  lightness: 0.6875
   saturation: 0.25
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
