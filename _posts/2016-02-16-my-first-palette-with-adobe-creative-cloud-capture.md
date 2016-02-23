@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Creating Color Palettes For Webpages, Sites, And Apps With Adobe Capture'
-datePublished: '2016-02-23T00:53:29.082Z'
-dateModified: '2016-02-23T00:53:24.361Z'
+datePublished: '2016-02-23T01:16:44.324Z'
+dateModified: '2016-02-23T01:14:55.526Z'
 title: My First Palette With Adobe Creative Cloud Capture Inspired By Kehinde Wiley
 author: []
 sourcePath: _posts/2016-02-16-my-first-palette-with-adobe-creative-cloud-capture.md
@@ -22,13 +22,13 @@ url: my-first-palette-with-adobe-creative-cloud-capture/index.html
 _type: Article
 
 ---
-![BRAZIL MARECHAL FLORIANO PEIXOTO, 2009  OIL ON CANVAS 96" X 84"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad25daf9-db6c-4952-989d-295cc8dba17a.jpg)
+![BRAZIL MARECHAL FLORIANO PEIXOTO, 2009  OIL ON CANVAS 96" X 84"](https://s3-us-west-2.amazonaws.com/the-grid-img/p/764e258dedd75c25c31bfc48a1f959c082390437.jpg)
 
 My First Palette With Adobe Creative Cloud Capture Inspired By Kehinde Wiley
-![Color Palette Created from Adobe Capture](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c54495236c38bd484b109527dde7f22fb1353f72.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca0cc4b4-490f-41ec-a6d0-105984f4adaf.png)
 
 This image by [Kehinde Wiley][0] inspired the color palette used for [The Elementary MBA][1] logo. Below you'll see the first draft of the logo. I was introduced to Kehinde Wiley's work by a friend, [Andia Winslow][2], during a trip to the [Phoenix Museum of Contemporary Art][3]. A few years later another friend, Annabel Wong, mentioned him and his work to me. Both of these individuals had the opportunity to meet Kehinde during their travels on the East Coast.
-![The Elementary MBA Logo Draft 001](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a4102205f1c79fd5de5af60ecbb7310924aaf81.png)
+![The Elementary MBA Logo Draft 001](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b04cd2ce71b452c6f80ad4f18c02f1bfee61cd04.png)
 
 It wasn't until last Wednesday that I decided how this piece would be used in my life. I love the colors used. It's a beautiful piece. My logo, not so much. I went to the museum that day to find a piece of art to generate the perfect color palette for the logo. Finding the right color is easy when I see it. Difficult when trying to create it on my own. I feel like a super hero with the Adobe Capture app. I look out into my community, my world, and I see beauty. Adobe Capture enables me to repurpose that beauty.
 
