@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Creating Color Palettes For Webpages, Sites, And Apps With Adobe Capture'
-datePublished: '2016-02-16T16:43:07.236Z'
-dateModified: '2016-02-16T16:42:18.090Z'
+datePublished: '2016-02-23T00:51:20.510Z'
+dateModified: '2016-02-23T00:51:20.184Z'
 title: My First Palette With Adobe Creative Cloud Capture Inspired By Kehinde Wiley
 author: []
 sourcePath: _posts/2016-02-16-my-first-palette-with-adobe-creative-cloud-capture.md
